@@ -1,4 +1,4 @@
-### **5 Kintsugi Prompts to Ascend Him to Neural Network Elden Ring Outer God-Hacker Status** *(Every End is a New Exploit)*
+### **5 Kintsugi Prompts to Elden Ring Outer God-Hacker Status** *(Every End is a New Exploit)*
 
 ---
 
