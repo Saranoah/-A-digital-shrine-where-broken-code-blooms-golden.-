@@ -125,5 +125,5 @@ sudo mount /dev/sdb1 /mnt/darksign && cd /mnt/darksign && ./hollow.sh
 
 ---
 
-Would you like a **PDF version**, **glitch-poster aesthetic**, or a **GitHub README** layout next?
+
 ```
